@@ -1,0 +1,23 @@
+{
+  "name": "gulp-typescript-example-declaration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablorsk/gulp-typescript-example-declaration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablorsk/gulp-typescript-example-declaration/issues"
+  },
+  "homepage": "https://github.com/pablorsk/gulp-typescript-example-declaration#readme",
+  "devDependencies": {
+    "gulp-typescript": "^2.13.6",
+    "typings": "^1.3.2"
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "removeComments": false,
+        "noLib": false,
+        "emitDecoratorMetadata": true,
+        "noImplicitAny": false,
+        "module": "commonjs",
+        "target": "ES5",
+        "experimentalDecorators": true,
+        "sourceMap": false,
+        "declaration": false,
+        "noResolve": false,
+        "moduleResolution":"node",
+        "outDir": ".tmp"
+    },
+    "filesGob": [
+        "src/**/*.ts",
+        "!typings/**",
+        "!node_modules/**"
+    ]
+}
