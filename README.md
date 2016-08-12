@@ -3,11 +3,13 @@
 **Testing**
 
 ```bash
-node .tmp/index.js
+$ node .tmp/index.js
+You move firulay 5 steps...
 ```
 
 **Make dist package**
 
 ```bash
-gulp
+$ gulp compile
+# generated files stored on dist folder
 ```
