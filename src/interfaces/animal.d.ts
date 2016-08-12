@@ -1,4 +1,4 @@
 export interface IAnimal {
-    public name: string;
+    name: string;
     move(steps: number): boolean;
 }

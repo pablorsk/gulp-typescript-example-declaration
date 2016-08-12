@@ -8,7 +8,7 @@
         "target": "ES5",
         "experimentalDecorators": true,
         "sourceMap": false,
-        "declaration": false,
+        "declaration": true,
         "noResolve": false,
         "moduleResolution":"node",
         "outDir": ".tmp"
